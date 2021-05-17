@@ -9,8 +9,9 @@ A random ASCII character is received every 100ms. We need to find a sequence of 
 Function:  Process
   called every 100 ms, inserts input character to buffer and check for sequence "GLROX", letters between are allowed.
 Parameters :
-  input : character from input
-  buffer: array of characters received
-  position: counter of positions in buffer
+  input : character from input.
+  buffer: array of characters received.
+  position: counter of positions in buffer.
+  
 Return value :
   returns: none
