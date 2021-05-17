@@ -36,3 +36,7 @@ position: counter of positions in buffer
 
 Returning value : 
 Returns: none
+
+# Second task
+
+Main function generate random numbers from defined range and process them by rules given in task description. 
